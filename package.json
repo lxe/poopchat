@@ -1,0 +1,23 @@
+{
+  "name": "poopchat",
+  "version": "1.0.0",
+  "description": "It's the best",
+  "main": "poopchat.js",
+  "scripts": {
+    "test": "echo 'no bugs'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxe/poopchat.git"
+  },
+  "keywords": [
+    "poop",
+    "chat"
+  ],
+  "author": "Aleksey Smolenchuk <lxe@lxe.co>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lxe/poopchat/issues"
+  },
+  "homepage": "https://github.com/lxe/poopchat#readme"
+}
